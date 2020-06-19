@@ -9,7 +9,7 @@
     }],
     "require": {
         "php": ">=7.0.0",
-        "bensampo/laravel-enum": "^1.15"
+        "bensampo/laravel-enum": "^1.38"
     },
     "require-dev": {},
     "autoload": {
